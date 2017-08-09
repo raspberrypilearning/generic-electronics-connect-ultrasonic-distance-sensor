@@ -1,0 +1,16 @@
+title: Connecting an ultrasonic distance sensor to a Raspberry Pi
+hero_image: images/banner.png
+description: How to connect an ultrasonic distance sensor to a Raspberry Pi
+original_url: 
+theme: orange
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+curriculum: 
+interests: 
+technologies: "electronics, physical computing, rpi"
+site_areas:
+steps:
+  - title: Connect an ultrasonic distance sensor
+
